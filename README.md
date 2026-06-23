@@ -1,1 +1,2 @@
-# Juliana_Baracho_Case_Artefact
+# case-artefact
+analytics engineer
